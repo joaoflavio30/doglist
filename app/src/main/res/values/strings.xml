@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dogglers</string>
+    <string name="bella_name">Bella</string>
+    <string name="faye_name">Faye</string>
+    <string name="frankie_name">Frankie</string>
+    <string name="leroy_name">Leroy</string>
+    <string name="nox_name">Nox</string>
+    <string name="tzeitel_name">Tzeitel</string>
+    <string name="bella_age">Age : 5</string>
+    <string name="faye_age">Age : 3</string>
+    <string name="frankie_age">Age : 4</string>
+    <string name="leroy_age">Age : 13</string>
+    <string name="nox_age">Age : 2</string>
+    <string name="tzeitel_age">Age : 1</string>
+    <string name="bella_hobbie">play with ball</string>
+    <string name="faye_hobbie">running in circles</string>
+    <string name="frankie_hobbie">eat meat</string>
+    <string name="leroy_hobbie">sleep</string>
+    <string name="nox_hobbie">run after the ball</string>
+    <string name="tzeitel_hobbie">swimming</string>
+    <string name="btn_vertical">Vertical</string>
+    <string name="btn_horizontal">Horizontal</string>
+    <string name="btn_grid">Grid</string>
+
+</resources>
